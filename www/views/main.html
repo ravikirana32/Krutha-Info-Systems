@@ -1,0 +1,29 @@
+<div ng-include src="template.url" ></div>
+
+<div ng-switch on="(currentpage == 'objective')">
+    <div ng-switch-when="true" ng-controller="objectiveController">
+        <div ng-include src="objective.url" ></div>
+    </div>
+    
+</div>
+<div ng-switch on="(currentpage == 'career')">
+    <div ng-switch-when="true" ng-controller="careerController">
+        <div ng-include src="career.url" ></div>
+    </div>
+</div>
+<div ng-switch on="(currentpage == 'education')">
+    <div ng-switch-when="true" ng-controller="educationController">
+        <div ng-include src="education.url" ></div>
+    </div>
+</div>
+<div ng-switch on="(currentpage == 'krutha')">
+    <div ng-switch-when="true" ng-controller="kruthaController">
+        <div ng-include src="krutha.url" ></div>
+    </div>
+</div>
+<div ng-switch on="(currentpage == 'contact')">
+    <div ng-switch-when="true" ng-controller="contactController">
+        <div ng-include src="contact.url" ></div>
+    </div>
+</div>
+<div ng-include src="template1.url" ></div>
