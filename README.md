@@ -1,2 +1,2 @@
-# fracApp
-for signage
+# Krutha Info Systems
+Social Kind Of Organization

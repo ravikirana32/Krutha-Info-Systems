@@ -1,7 +1,7 @@
 {
-  "name": "fracApp",
+  "name": "Krutha info systems",
   "version": "0.0.0",
-  "description": "fracApp digital signage application",
+  "description": "Social Kind of Organization",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,15 +19,15 @@
     },
   "repository": {
     "type": "git",
-    "url": "https://github.com/girishgkg/citypostr.git"
+    "url": "https://github.com/ravikirana32/Krutha-Info-Systems.git"
   },
   "keywords": [
     "smart",
     "city"
   ],
-  "author": "Girish",
+  "author": "ravikirana32",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/girishgkg/citypostr/issues"
+    "url": "https://github.com/ravikirana32/Krutha-Info-Systems/issues"
   }
 }
