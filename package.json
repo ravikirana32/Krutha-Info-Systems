@@ -1,0 +1,35 @@
+{
+  "name": "Krutha-info-systems",
+  "version": "0.0.0",
+  "description": "Social Kind of Organization",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "error" : "*",
+    "express" : "*",
+    "body-parser" : "*",
+    "morgan" : "*",
+    "errorhandler" : "*",
+    "express": "4.10.2",
+    "socket.io": "1.2.0",
+    "stylus": "*",
+    "mongodb": ">= 0.9.6-7",
+    "socket.io-client":"*",
+    "require":"*"  
+    },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ravikirana32/Krutha-Info-Systems.git"
+  },
+  "keywords": [
+    "smart",
+    "city"
+  ],
+  "author": "ravikirana32",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/ravikirana32/Krutha-Info-Systems/issues"
+  }
+}
