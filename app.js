@@ -7,9 +7,9 @@ var express = require('express'),
 
     var app = require('express')();
     var http = require('http').Server(app);
-    var ioc = require('socket.io')(http);
-    var request = require("request");
-    var io = require('socket.io-client');
+    //var ioc = require('socket.io')(http);
+    //var request = require("request");
+    //var io = require('socket.io-client');
     //var sockets = io.connect('http://localhost:4080');
 
     
